@@ -2,7 +2,7 @@
 <h3 align="center">IT Student @ De La Salle Lipa</h3>
 
 <p align="center">
-This is my personal account — I migrated my projects here from <a href="https://github.com/LancePr0">LancePr0</a>, which is now my school account. 4th-year BS Information Technology student who enjoys building web and database-driven systems. Lead developer on my capstone (a complaint management system for tricycle commuters), and I build the POS system my family's restaurant runs on.
+This is my personal account, I migrated my projects here from <a href="https://github.com/LancePr0">LancePr0</a>, which is my school account. 4th-year BS Information Technology student who enjoys building web and database-driven systems. Lead developer on my capstone (a complaint management system for tricycle commuters), and I build the POS system my family's restaurant runs on.
 </p>
 
 <h3>🛠️ Tech Stack & Tools</h3>
@@ -57,14 +57,20 @@ This is my personal account — I migrated my projects here from <a href="https:
 
 <h3>🎓 Certificates</h3>
 
-<img src="https://img.shields.io/badge/Cisco%20NetAcad-Python%20Essentials%201%20&%202-1BA0D7?style=flat-square"/>
-<img src="https://img.shields.io/badge/Cisco%20NetAcad-Cyber%20Threat%20Management-1BA0D7?style=flat-square"/>
-<img src="https://img.shields.io/badge/Accenture-Skills%20to%20Succeed%20Academy-A100FF?style=flat-square"/>
+**DevRoutes: Learning How to Learn with Roadmaps** — Certificate of Participation, JPCS De La Salle Chapter (Jan 2026)
+**Skills to Succeed Academy (S2S Academy)** — Accenture (Mar 2026)
+**Python Essentials 1** — Cisco Networking Academy · [View on Credly ↗](https://www.credly.com/users/lance-fedelicio)
+**Python Essentials 2** — Cisco Networking Academy · [View on Credly ↗](https://www.credly.com/users/lance-fedelicio)
+**Cyber Threat Management** — Cisco Networking Academy · [View on Credly ↗](https://www.credly.com/users/lance-fedelicio)
 
 <h3>📫 Connect with Me</h3>
 
 <p>
 <a href="https://github.com/VONGoldilux"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<p>
+<a href="https://www.linkedin.com/in/lenard-lance-fedelicio-743906438/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <br>
