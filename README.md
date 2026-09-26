@@ -57,11 +57,13 @@ This is my personal account, I migrated my projects here from <a href="https://g
 
 <h3>🎓 Certificates</h3>
 
-**DevRoutes: Learning How to Learn with Roadmaps** — Certificate of Participation, JPCS De La Salle Chapter (Jan 2026)
-**Skills to Succeed Academy (S2S Academy)** — Accenture (Mar 2026)
-**Python Essentials 1** — Cisco Networking Academy · [View on Credly ↗](https://www.credly.com/users/lance-fedelicio)
-**Python Essentials 2** — Cisco Networking Academy · [View on Credly ↗](https://www.credly.com/users/lance-fedelicio)
-**Cyber Threat Management** — Cisco Networking Academy · [View on Credly ↗](https://www.credly.com/users/lance-fedelicio)
+<ul>
+<li><b>DevRoutes: Learning How to Learn with Roadmaps</b> — Certificate of Participation, JPCS De La Salle Chapter (Jan 2026)</li>
+<li><b>Skills to Succeed Academy (S2S Academy)</b> — Accenture (Mar 2026)</li>
+<li><b>Python Essentials 1</b> — Cisco Networking Academy · <a href="https://www.credly.com/users/lance-fedelicio">View on Credly ↗</a></li>
+<li><b>Python Essentials 2</b> — Cisco Networking Academy · <a href="https://www.credly.com/users/lance-fedelicio">View on Credly ↗</a></li>
+<li><b>Cyber Threat Management</b> — Cisco Networking Academy · <a href="https://www.credly.com/users/lance-fedelicio">View on Credly ↗</a></li>
+</ul>
 
 <h3>📫 Connect with Me</h3>
 
