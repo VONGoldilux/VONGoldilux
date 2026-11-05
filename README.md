@@ -30,6 +30,7 @@ This is my personal account, I migrated my projects here from <a href="https://g
 <p>
 <b>Cloud & DevOps</b><br>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
@@ -45,7 +46,7 @@ This is my personal account, I migrated my projects here from <a href="https://g
 
 <h4>ComTrike</h4>
 <p>
-Lead developer. Capstone project: a web-based complaint management system for tricycle commuters in Lipa City. Separate LTO and LGU officer dashboards, public-facing complaint filing, split-jurisdiction routing, and data retention/disposal handling under the Philippine Data Privacy Act. Built with Supabase (PostgreSQL, RLS, Edge Functions), vanilla JavaScript, and Bootstrap 5. Deployed on Vercel.<br>
+Lead developer. Capstone project: a web-based complaint management system for tricycle commuters in Lipa City. Separate LTO and LGU officer dashboards, public-facing complaint filing, split-jurisdiction routing, and data retention/disposal handling under the Philippine Data Privacy Act. Built with Supabase (PostgreSQL, RLS, Edge Functions), vanilla JavaScript, and Bootstrap 5. Deployed on Netlify.<br>
 🔒 <i>The repository is private because it contains people's personal data.</i>
 </p>
 
