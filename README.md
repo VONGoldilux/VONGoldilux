@@ -82,10 +82,6 @@ POS system for a friend's auto supply shop. Built with React, Tailwind CSS, and 
 <h3>📫 Connect with Me</h3>
 
 <p>
-<a href="https://github.com/VONGoldilux"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<p>
 <a href="https://www.linkedin.com/in/lenard-lance-fedelicio-743906438/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
